@@ -40,6 +40,7 @@
 .read-the-docs {
   color: #888;
 }
+<<<<<<< HEAD
 
 .navbar {
   display: flex;
@@ -193,3 +194,5 @@
 }
 
 .card:hover { transform: translateY(-5px); }
+=======
+>>>>>>> 97f2d438166a1639c72a03e67c702a556a9099b6
